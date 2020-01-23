@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="start">Start</string>
+    <string name="starting_point">Starting point</string>
+    <string name="ending_point">Ending point</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
